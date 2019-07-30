@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to export only selected GridView rows to different output text formats
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4352)**
+**[[Run Online]](https://codecentral.devexpress.com/e4352/)**
 <!-- run online end -->
 
 
